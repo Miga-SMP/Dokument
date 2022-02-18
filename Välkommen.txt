@@ -1,51 +1,53 @@
-Välkommen till Miga! 
+VÃ¤lkommen till Miga! 
 
-Här har du en Faq som borde hjälpa dig med vad du behöver veta:)
+HÃ¤r har du en Faq som borde hjÃ¤lpa dig med vad du behÃ¶ver veta:)
 
-Vad är ip:n?
+Vad Ã¤r ip:n?
 migamc.se
 
 Vad heter hemsidan?
 migamc.se
 
-Har servern en ägare?
-Servern har ingen specifik ägare utan den styrs av en styrelse.  Att servern styrs av en styrelse innebär att de tar gemensamt besluten för servern och det blir på så sätt mer demokratiskt
-Vi har som mål att driva en minecraft server där man hittar nya vänner att spela med och att alla skall känna sig välkomna!
+Har servern en Ã¤gare?
+Servern har ingen specifik Ã¤gare utan den styrs av en styrelse.  Att servern styrs av en styrelse innebÃ¤r att de tar gemensamt besluten fÃ¶r servern och det blir pÃ¥ sÃ¥ sÃ¤tt mer demokratiskt
+Vi har som mÃ¥l att driva en minecraft server dÃ¤r man hittar nya vÃ¤nner att spela med och att alla skall kÃ¤nna sig vÃ¤lkomna!
 
 Hur blir man whitelistad?
-Fyll i formuläret som finns i discorden i #ansök och på hemsidan  så kollar vi igenom ditt svar inom 24h. Brukar inte ta mer än 1h 
-formuläret= https://forms.gle/BnK8K9HYB9kmdoCn7 
+Fyll i formulÃ¤ret som finns i discorden i #ansÃ¶k och pÃ¥ hemsidan  sÃ¥ kollar vi igenom ditt svar inom 24h. Brukar inte ta mer Ã¤n 1h 
+formulÃ¤ret= https://forms.gle/BnK8K9HYB9kmdoCn7 
 
-Vad på servern skiljer sig från Vanilla?
-- Saker tar längre tid att despawna
-- Bara en femtedel av spelarna behöver sova för att det skall bli dag.
-- På hemsidan finns en karta över hela servern
-- Om du tror att någon har tagit något från din kista? Skriv "/co i" för att kolla.
-- Både Bedrock och Java kan spela på servern.
+Vad pÃ¥ servern skiljer sig frÃ¥n Vanilla?
+- Saker tar lÃ¤ngre tid att despawna
+- Bara en femtedel av spelarna behÃ¶ver sova fÃ¶r att det skall bli dag.
+- PÃ¥ hemsidan finns en karta Ã¶ver hela servern
+- Om du tror att nÃ¥gon har tagit nÃ¥got frÃ¥n din kista? Skriv "/co i" fÃ¶r att kolla.
+- BÃ¥de Bedrock och Java kan spela pÃ¥ servern.
 
 Var kan man bygga? 
-Du får i princip bygga vart du vill men inte på någon annans mark. Om du vill bygga i en stad måste du fråga ägaren.
+Du fÃ¥r i princip bygga vart du vill men inte pÃ¥ nÃ¥gon annans mark. Om du vill bygga i en stad mÃ¥ste du frÃ¥ga Ã¤garen.
 
 Hur kommer man till The End?
-För tillfället är The End avstängt då vi skall ta ner draken tillsammans och hindra speedrunners.
+FÃ¶r tillfÃ¤llet Ã¤r The End avstÃ¤ngt dÃ¥ vi skall ta ner draken tillsammans och hindra speedrunners.
 
 Kan jag bjuda in min kompis? 
-Såklart! skicka ansöknings länken till spelaren
+SÃ¥klart! skicka ansÃ¶knings lÃ¤nken till spelaren
 
-Vad är ip:n? 
+Vad Ã¤r ip:n? 
 migamc.se
 
-Är mina saker säkra? 
-Mycket, vi har plugin som gör att man kan se vem som tagit och vad dem tagit. Skriv /co i och klicka på block eller kistor för att se vad som tagits (Höger och vänsterklick ger olika information). För att gå ur co inspect skriv bara /co i igen 
+Ã„r mina saker sÃ¤kra? 
+Mycket, vi har plugin som gÃ¶r att man kan se vem som tagit och vad dem tagit. 
+Skriv /co i och klicka pÃ¥ block eller kistor fÃ¶r att se vad som tagits (HÃ¶ger och vÃ¤nsterklick ger olika information). 
+FÃ¶r att gÃ¥ ur co inspect skriv bara /co i igen 
 
-Hur hålls servern uppe? 
-Servern hålls uppe av en dedikerad serverdator. Dock för tillfället inte den bästa men kommer att uppgraderas.
+Hur hÃ¥lls servern uppe? 
+Servern hÃ¥lls uppe av en dedikerad serverdator. Dock fÃ¶r tillfÃ¤llet inte den bÃ¤sta men kommer att uppgraderas.
 
-Får jag använda den här farmen..? 
-Farmer ansvaras av privata spelare, så kolla med spelaren som äger farmen. Om inte så riskerar du att begå ett brott.
+FÃ¥r jag anvÃ¤nda den hÃ¤r farmen..? 
+Farmer ansvaras av privata spelare, sÃ¥ kolla med spelaren som Ã¤ger farmen. Om inte sÃ¥ riskerar du att begÃ¥ ett brott.
 
-Har du fler frågor? 
-Kontakta gärna någon i styrelsen eller admin så hjälper vi dig!
+Har du fler frÃ¥gor? 
+Kontakta gÃ¤rna nÃ¥gon i styrelsen eller admin sÃ¥ hjÃ¤lper vi dig!
 
 Discord: Skapa en support ticket i textkanalen.
-Mail: Skicka iväg ett mail till migaspelforening@gmail.com.
+Mail: Skicka ivÃ¤g ett mail till migaspelforening@gmail.com.
