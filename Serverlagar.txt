@@ -1,31 +1,17 @@
-Serverlagar
+Miga SMPs Serverlagar
 
-1 §   Greifing är ej tillåtet.
+1 Â§ Greifing Ã¤r ej tillÃ¥tet.
 
-2 §   Man får inte stjäla saker.
+2 Â§ Man fÃ¥r inte stjÃ¤la saker.
 
-2.1 §   Bannade spelares saker tillhör serverns domstol. Domstolen bedömer, individuellt hur bannades saker återbetalas när dem unbannats.
+3 Â§ Bannade spelares saker raderas sÃ¥ att ingen annan kan anvÃ¤nda dem
 
-3 §   Pvp är tillåtet men döda ingen som inte vill det
+4 Â§ Pvp Ã¤r tillÃ¥tet men dÃ¶da ingen som inte vill det
 
-4 §   Headhunting och headfarming på spelare är ej tillåtet.
+5 Â§ Fuskklienter Ã¤r fÃ¶rbjudna. Vissa moddade klienter med funktioner liknande optifine Ã¤r godkÃ¤nda men frÃ¥ga styrelse eller admin fÃ¶rst. (Lunar Ã¤r fÃ¶rbjuden)
 
-5 §   Fuskklienter & Autoclicker är  förbjudna. Vissa moddade klienter är godkända men fråga styrelse eller admin  först.
+6 Â§ Respektera alla och hÃ¥ll en god ton i chattarna.
 
-6 §   Respektera alla. 
+7 Â§ Duplicering, och serverkrashande maskiner Ã¤r strÃ¤ngt fÃ¶rbjudet
 
-6.1 § Förbjudet att använda sig förnedrande och använda olämpliga ord på servern. Vårda ditt språk!
-
-7 §   Servern är religiöst och partipolitiskt oberoende
-
-8 §   Användning av maskiner avsedda för att krascha servern är strängt förbjudet. En eloge till den som bygger sina farmer laggfria. Detta leder till en bättre upplevelse för alla på servern
-
-9 §   Duplicering är strängt förbjudet. Även annat utnyttjande av buggar som inte stöttas av spelet är strängt förbjudet. Undantag är att ta sönder bedrock. Om du känner att du har frågor kring lagen, öppna en ticket i vår discord.
-
-10 §  Beslagta inte överdrivet mycket mark
-
-12 § Man får passera andras mark men gör det respektfullt
-
-13 §   VPN är inte tillåtet på servern, sålänge man inte har fått ett godkännande från styrelsen
-
-Om man bryter mot serverreglerna riskerar du tempban och rättegång.
+Om man bryter mot serverreglerna sÃ¥ riskerar du ban eller mindre konsekvenser.
